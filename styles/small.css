@@ -148,6 +148,7 @@ header {
     font-size: calc(24px + (36 - 24) * ((100vw - 320px) / (1700 - 320)));
     color: white;
     font-family: 'Amagro', sans-serif;
+    text-align: center;
 }
 
 .food-image-element p {
